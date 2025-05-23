@@ -1,4 +1,4 @@
-print("Welcome to Mariam's Cat Dictionary! 🐱")
+print("Welcome to Maryam's Cat Dictionary! 🐱")
 
 cat_list = []
 
